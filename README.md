@@ -86,6 +86,5 @@
 #
 <br/><br/>
 -----
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
 
 **Last Edited on**: 23/06/2022
